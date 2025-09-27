@@ -1,0 +1,17 @@
+[
+  {
+    "name": "📱 موبايل سامسونگ",
+    "price": 300,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2208/gallery/levant-galaxy-s22-ultra-s908-5g-sm-s908edrgmea-533021524?$650_519_PNG$"
+  },
+  {
+    "name": "💻 لابتوب ديل",
+    "price": 700,
+    "image": "https://i.dell.com/sites/imagecontent/products/PublishingImages/xps-15-9520-laptop/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=711&qlt=100,0&resMode=sharp2&size=711,402"
+  },
+  {
+    "name": "🎧 سماعات بلوتوث",
+    "price": 50,
+    "image": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_UF894,1000_QL80_.jpg"
+  }
+]
